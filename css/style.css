@@ -2,6 +2,11 @@
 	color:white; 
 }
 
+html
+{
+	text-align: center;
+}
+
 .slike
 {
 	height=10px;

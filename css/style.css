@@ -9,10 +9,15 @@ html
 
 .slike
 {
-	height=10px;
-	width=10px;
+	height:10px;
+	width:10px;
 }
 
+#tablicaPodataka
+{
+background-color: turquoise;
+color:tomato;
+}
 
 tr{cursor: pointer; transition: all .25s ease-in-out}
             .selected{background-color: red; font-weight: bold; color: #fff;}
